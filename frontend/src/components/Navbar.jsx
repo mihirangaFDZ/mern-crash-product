@@ -28,12 +28,13 @@ import {
             }}
           >
             <Text
-              fontSize={{ base: "22", sm: "28" }}
+              fontSize={{ base: "35", sm: "45" }}
               fontWeight={"bold"}
               textTransform={"uppercase"}
               textAlign={"center"}
               bgGradient="linear(to-r, #FFD700, #FFA500)"
               bgClip={"text"}
+              style={{ fontFamily: "Garamond" }}
             >
               <Link to={"/"}>G L I N T</Link>
             </Text>
